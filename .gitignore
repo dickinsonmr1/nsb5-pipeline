@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Example/ExampleWeb/bin
+/Example/ExampleWeb/obj/Debug
+/Example/UserService/bin/Debug
+/Example/UserService/obj/Debug
+/Example/UserService.Messages/bin/Debug
+/Example/UserService.Messages/obj/Debug
+/Example/WelcomeEmailService/bin/Debug
+/Example/WelcomeEmailService/bin/Debug
+/Example/WelcomeEmailService/obj/Debug
+/Example/WelcomeEmailService.Messages/bin/Debug
+/Example/WelcomeEmailService.Messages/obj/Debug
